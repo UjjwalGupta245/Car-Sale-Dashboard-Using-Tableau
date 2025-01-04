@@ -35,3 +35,5 @@ Charts Requirement
 ## Picture of Dashboard
 ![Screenshot 2025-01-04 232424](https://github.com/user-attachments/assets/d604978f-a014-4114-9de5-22798c976682)
 
+##Tableau
+##Data Visualization
