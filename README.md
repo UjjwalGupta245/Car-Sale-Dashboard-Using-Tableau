@@ -25,10 +25,6 @@ Charts Requirement
 4.	YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a bar chart to visualize the sales distribution geographically.
 5.	Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 
-
-##Tableau
-##Data Visualization
-
 ## Link to my Tableau Public Project
 (https://public.tableau.com/views/CarsSalesDashboard_17346332872610/CarSalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -37,3 +33,10 @@ Charts Requirement
 
 ##Tableau
 ##Data Visualization
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge&logo=datastax&logoColor=white)
+![Data Analyst](https://img.shields.io/badge/Data%20Analyst-1D72B8?style=for-the-badge&logo=data&logoColor=white)
+
+
+
