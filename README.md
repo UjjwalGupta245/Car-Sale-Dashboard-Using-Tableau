@@ -31,10 +31,17 @@ Charts Requirement
 ## Picture of Dashboard
 ![Screenshot 2025-01-04 232424](https://github.com/user-attachments/assets/d604978f-a014-4114-9de5-22798c976682)
 
-
+### Skills Learned
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge&logo=datastax&logoColor=white)
 ![Data Analyst](https://img.shields.io/badge/Data%20Analyst-1D72B8?style=for-the-badge&logo=data&logoColor=white)
+![Data Cleaning and Preparation](https://img.shields.io/badge/Data%20Cleaning%20and%20Preparation-007396?style=for-the-badge&logo=tableau&logoColor=white)
+![Interactive Dashboards](https://img.shields.io/badge/Interactive%20Dashboards-FF6F00?style=for-the-badge&logo=tableau&logoColor=white)
+
+
+
+
+
 
 
 
