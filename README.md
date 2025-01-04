@@ -31,8 +31,6 @@ Charts Requirement
 ## Picture of Dashboard
 ![Screenshot 2025-01-04 232424](https://github.com/user-attachments/assets/d604978f-a014-4114-9de5-22798c976682)
 
-##Tableau
-##Data Visualization
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge&logo=datastax&logoColor=white)
